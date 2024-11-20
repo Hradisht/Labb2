@@ -20,7 +20,7 @@ public class Store
         customers.Add(new Customer("Knatte", "123")); //lägger förinstälda kunder i listan
         customers.Add(new Customer("Fnatte", "321"));
         customers.Add(new Customer("Tjatte", "213"));
-        Console.WriteLine("Välkommen till Hus-transaktion");
+        Console.WriteLine("Välkommen till Köppis");
 
         while (true)
         {
